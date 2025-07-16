@@ -1,0 +1,1 @@
+This repository contains my first task for Data Science Internship for Data Science Internship at SKILLCRAFT TECHNOLOGY .TASK--To create barchat or histogram to visualize the distribution of categorical or continous variable using sample data set
